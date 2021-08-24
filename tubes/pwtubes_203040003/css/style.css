@@ -1,0 +1,95 @@
+/*halaman index*/
+.con-index {
+    background-image: url("../assets/img/1.jpg");
+    background-size: cover;
+}
+
+.card {
+    filter: drop-shadow(1px 1px 3px rgba(0, 0, 0, 0.5));
+}
+
+.card-img-top {
+    width: 200px;
+}
+
+.btn-baru {
+    background-color: #D2E4E7;
+}
+
+.btn-keadmin {
+    margin-left: 100px;
+}
+
+/*halaman detail*/
+.con-detail {
+    background-image: url("../assets/img/1.jpg");
+    background-size: cover;
+}
+
+/*halaman admin*/
+span,
+.navbar-brand {
+    padding-left: 100px;
+    font-size: 26px;
+}
+
+nav,
+.navbar {
+    background-color: #589F7B;
+    box-shadow: 2px 2px 3px #C0C2C1;
+
+}
+
+.con-admin {
+    padding: 25px;
+    background-color: #EFF3F1;
+}
+
+.nav-admin {
+    margin-left: 980px;
+}
+
+/*logout*/
+#tom-logout {
+    text-decoration-line: none;
+    font-weight: 500;
+}
+
+
+/*halaman tambah*/
+.con-tambah {
+    background-color: #EFF3F1;
+}
+
+#btn-kembali {
+    text-decoration-line: none;
+}
+
+/*button warna admin*/
+#Ungu {
+    background-color: #6f42c1;
+}
+
+#Hijau {
+    background-color: #198754;
+}
+
+#Jingga {
+    background-color: #fd7e14;
+}
+
+/*cari*/
+.cari {
+    margin-left: 500px;
+}
+
+/*login*/
+#bg-login {
+    width: 500px;
+    margin-left: 300px;
+    margin-top: 110px;
+}
+
+.con-login {
+    background-color: #6DA9B9;
+}

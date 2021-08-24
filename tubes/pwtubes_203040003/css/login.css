@@ -1,0 +1,52 @@
+body {
+  position: center;
+}
+
+#registerform {
+  width: 400px;
+  background: #24303C;
+  padding: 30px;
+  color: white;
+  font-family: sans-serif;
+  border-radius: 3px;
+}
+
+#registerform h5 {
+  margin: 0;
+  font-size: 22px;
+  margin-bottom: 20px;
+  font-weight: normal;
+}
+
+#txtbox {
+  background: #24303C;
+  border: 1px solid #1F53C5;
+  font-size: 18px;
+  font-family: sans-serif;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 16px;
+  border-radius: 4px;
+  color: white;
+}
+
+#registerform p {
+  float: left;
+  font-size: 18px;
+  margin: 0 5px 0 0;
+}
+
+#registerform a {
+  font-size: 18px;
+  color: white;
+}
+
+#btn {
+  width: 100%;
+  margin: 16px 0px;
+  background: #1F53C5;
+  border: 0;
+  color: white;
+  padding: 12px;
+  font-size: 16px;
+}
